@@ -1,0 +1,26 @@
+@media only screen and (min-width: 1128px) {
+
+
+    .n_WalkTheDog {
+        margin-top: 85px;
+        height: 160px;
+        /*can be anything*/
+        width: 800px;
+        /*can be anything*/
+        position: relative;
+    }
+
+    .n_WalkTheDog img {
+
+        width: 100%;
+        height: auto;
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+
+    }
+
+
+}

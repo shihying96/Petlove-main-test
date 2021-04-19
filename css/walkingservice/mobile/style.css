@@ -1,0 +1,231 @@
+:root {
+    --mainblue: #89A7C2;
+    --mainpink: #FF9A9A;
+    --mainyellow: #F9DD83;
+    --maingray: #CCCCCC;
+    --maindarkgray: #707070;
+  
+  }
+
+@media (min-width: 375px)and (max-width: 1127px) {
+
+
+    .n_WalkTheDogIMG1{
+        width: 270px;
+        height: auto;
+        margin: 0 auto;
+        margin-top: 50px;
+        
+        
+
+    }
+
+    .n_DogIMG1  {
+        max-height: 100%;
+        max-width: 100%;
+        border-radius: 10px;
+        margin: 0 auto;
+    }
+
+    .n_WalkTheDogTitle1{
+     text-align: center;
+     margin-top: 50px;
+     font-size: 24px;
+     color: var(--mainblue);
+
+    }
+
+    .n_WalkTheDogSubTitle1 {
+        text-align: center;
+        margin-right: -50px;
+        font-size: 12px;
+        color: var(--mainblue);
+        letter-spacing: 0.8px;
+   
+    }
+
+    .n_WalkTheDogTitle1_line{
+      width: 50px;
+      height: 1px;
+      margin-top: 55px;
+      background: var(--mainblue);
+      margin-right: 10px;
+    }
+
+    .n_WalkTheDogTitle1WRAP{
+    display: flex;
+    justify-content: center;
+    }
+
+
+    .n_WalkTheDogTitle1_line2{
+    width: 50px;
+    height: 1px;
+    margin-top: 85px;
+    margin-left: 25px;
+    background: var(--mainblue);
+
+    }
+
+    .n_WalkTheDogContent1{
+    width: 270px;
+    margin: 0 auto;
+    letter-spacing: 1.2px;
+    line-height: 22px;
+    margin-top: 30px;
+    font-size: 14px;
+   
+    }
+
+    .n_WalkTheDogContent2{
+        width: 270px;
+        margin: 0 auto;
+        margin-top: 30px;
+        font-size: 14px;
+        line-height: 22px;
+        letter-spacing: 1.2px;
+        }
+
+    .n_WalkTheDogNumBox1{
+        width: 270px;
+        height: 100px;
+        background: rgb(255, 255, 255);
+        border-radius: 10px;
+        display: flex;
+        margin: 0 auto;
+        margin-top: 30px;
+      
+        }
+
+    .n_WalkTheDogNumText1{
+        font-size: 24px;
+        letter-spacing: 0.8px;
+        color: var(--mainblue);
+}
+    .n_WalkTheDogNumText{
+        margin-left: 50px;
+        margin-top: 20px;
+    }
+    .n_WalkTheDogNumText2{
+        margin-top: 20px;
+        font-size: 12px;
+        color: var(--mainblue);
+        letter-spacing: 3px;
+     
+    }
+
+    .n_WalkTheDogNumText3{
+        margin-top: 20px;
+        font-size: 12px;
+        color: var(--mainblue);
+        letter-spacing: 3px;
+        margin-left:15px;
+     
+    }
+    .n_WalkTheDogNumText4{
+        margin-left: 15px;
+        font-size: 24px;
+        letter-spacing: 0.8px;
+        color: var(--mainblue);
+    }
+
+    .n_WalkTheDogNumText4 span{
+        font-size: 14px;
+        letter-spacing: 3px;
+}
+
+    .n_WalkTheDogNumText1 span{
+        font-size: 14px;
+        letter-spacing: 3px;
+}
+
+
+
+   .n_WalkTheDogNumIcon{
+    height: 70px;
+}
+    .walkdog-people{
+        width: 25px;
+        height: 70px;
+        fill: var(--mainyellow);
+        margin-top: 15px;
+        margin-left: 50px;
+    }
+
+    .walkdog-dog{
+    width: 45px;
+    height: 70px;
+    fill: var(--mainyellow);
+    margin-top: 15px;
+    margin-left: 50px;
+}
+
+
+    .n_WalkTheDogNumSet{
+    margin-right: 15px;
+}
+
+    .n_WalkTheDogIntroTitle{
+    font-size: 16px;
+    color: var(--mainblue);
+    font-size: 14px;
+    line-height: 22px;
+    letter-spacing: 3px;
+    width: fit-content;
+    margin-left: 50px;
+   
+}
+
+
+    .n_WalkTheDogIntroText{
+    font-size: 14px;
+    width: fit-content;
+    color: var(--maindarkgray);
+    width: 270px;
+    font-size: 14px;
+    line-height: 22px;
+    letter-spacing: 1.2px;
+    margin-top: 10px;
+    margin-left: 50px;
+}
+
+.n_WalkTheDogIntroWrap{
+    margin-top: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
